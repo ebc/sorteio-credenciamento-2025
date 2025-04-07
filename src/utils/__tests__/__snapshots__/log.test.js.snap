@@ -1,0 +1,25 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`loga corretamente parametros sorteio 1`] = `
+"Sorteio realizado em: 11/11/2018 11:11:11.
+
+Lista de habilitados possui 1 itens 
+1	123	48797752000151	Produtora xyz
+
+Semente gerada a partir do momento exato do sorteio e da lista de participantes 
+semente1234
+
+"
+`;
+
+exports[`loga corretamente sorteio 1`] = `"[Sorteado nº 124 ocupada por 123	48797752000151	Produtora xyz - "`;
+
+exports[`loga corretamente sorteio 2`] = `
+"adicionado]
+"
+`;
+
+exports[`loga corretamente sorteio 3`] = `
+"sorteado anteriormente, não adicionado]
+"
+`;

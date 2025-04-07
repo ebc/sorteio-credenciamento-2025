@@ -1,0 +1,50 @@
+{
+  "name": "sorteio-credenciamento-2025",
+  "homepage": "",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "^4.0.0-beta.2",
+    "husky": "^0.14.3",
+    "jssha": "^2.3.1",
+    "lint-staged": "^15.4.3",
+    "prettier": "^1.7.4",
+    "react": "^16.0.0",
+    "react-dom": "^16.0.0",
+    "react-router-dom": "^4.2.2",
+    "react-scripts": "^5.0.1",
+    "reactstrap": "^5.0.0-alpha.3",
+    "seedrandom": "^2.4.3"
+  },
+  "lint-staged": {
+    "src/**/*.{js,jsx,json,css}": [
+      "prettier --single-quote --write",
+      "git add"
+    ]
+  },
+  "scripts": {
+    "precommit": "lint-staged",
+    "predeploy": "npm run build",
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "coverage": "react-scripts test --env=jsdom --coverage --collectCoverageFrom=src/**/*js --collectCoverageFrom=!src/registerServiceWorker.js --collectCoverageFrom=!src/index.js",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "prettier-eslint": "^16.3.0",
+    "react-test-renderer": "^16.0.0"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
