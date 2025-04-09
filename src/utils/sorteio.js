@@ -18,14 +18,10 @@ const sortear = momentoSorteio => {
   while (sorteados.length < participantes.length) {
     const posicaoSorteada = getRandomInt(0, participantes.length);
     const sorteado = participantes[posicaoSorteada];
-    log += l.logSorteio(posicaoSorteada, sorteado);
 
     if (!jaSorteados[posicaoSorteada]) {
       sorteados.push(sorteado);
       jaSorteados[posicaoSorteada] = true;
-      log += l.logPareceristaAdicionado();
-    } else {
-      log += l.logPareceristaNaoAdicionado();
     }
   }
   log += l.logLista('Lista sorteados', sorteados);

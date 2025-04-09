@@ -33,26 +33,7 @@ const logParecerista = parecerista => {
   );
 };
 
-const logSorteio = (posicaoSorteada, sorteado) => {
-  let ret = '';
-  ret += '[Sorteado nº ' + (posicaoSorteada + 1) + ' ocupada por ';
-  ret += logParecerista(sorteado);
-  ret += ' - ';
-  return ret;
-};
-
-const logPareceristaAdicionado = () => {
-  return 'adicionado]\n';
-};
-
-const logPareceristaNaoAdicionado = () => {
-  return 'sorteado anteriormente, não adicionado]\n';
-};
-
 module.exports = {
   logParametros,
-  logLista,
-  logSorteio,
-  logPareceristaAdicionado,
-  logPareceristaNaoAdicionado
+  logLista
 };
