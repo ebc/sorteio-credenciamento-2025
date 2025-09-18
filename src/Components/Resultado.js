@@ -24,7 +24,7 @@ class Resultado extends Component {
         <Table>
           <thead>
             <tr>
-              <th>Lote</th>
+              <th>Sequência</th>
               <th>Inscrição</th>
               <th>CNPJ</th>
               <th>Razão Social</th>
