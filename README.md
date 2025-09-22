@@ -3,8 +3,12 @@
 Sorteio público para definição da ordem de credenciamento
 Edital de Credenciamento de Produtoras Audiovisuais - Edital N° 001/2024
 
+## Resultado dos sorteios
 
-# Descrição
+A pasta `/resultado` contém o resultado dos sorteios realizados nos dias 22/09 (Produto SÉRIE DOCUMENTAL) e 10/04/2025 (lotes).
+
+
+## Descrição
 
 O código do programa responsável pelo sorteio de credenciamento está disponível para consulta pública no repositório oficial de código da EBC, acessível através do seguinte endereço: [https://github.com/ebc/sorteio-credenciamento-2025](https://github.com/ebc/sorteio-credenciamento-2025).
 
