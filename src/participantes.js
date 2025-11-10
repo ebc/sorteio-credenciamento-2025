@@ -11,7 +11,7 @@ const pareceristas = [
   },
   {
     Inscricao: 229,
-    CNPJ: '031399764000125',
+    CNPJ: '31399764000125',
     RazaoSocial: 'Log Produções & Filmes Ltda.'
   }
 ];
