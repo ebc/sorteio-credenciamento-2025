@@ -12,7 +12,7 @@ const pareceristas = [
   },
   {
     Inscricao: 149,
-    CNPJ: '2877208600019',
+    CNPJ: '28772086000190',
     RazaoSocial: 'Plongee 360 Produção e Arte Ltda'
   },
   {
