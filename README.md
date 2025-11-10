@@ -5,7 +5,12 @@ Edital de Credenciamento de Produtoras Audiovisuais - Edital N° 001/2024
 
 ## Resultado dos sorteios
 
-A pasta `/resultado` contém o resultado dos sorteios realizados nos dias 22/09 (Produto SÉRIE DOCUMENTAL) e 10/04/2025 (lotes).
+A pasta `/resultado` contém o resultado dos seguintes sorteios realizados:
+
+- 10/11/2025 às 16h00 - Produto SÉRIE EM ANIMAÇÃO
+- 10/11/2025 às 14h30 - Produto SÉRIE DOCUMENTAL
+- 22/09/2025 - Produto SÉRIE DOCUMENTAL
+- 10/04/2025 - lotes
 
 
 ## Descrição
