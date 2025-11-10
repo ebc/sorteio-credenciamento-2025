@@ -1,0 +1,16 @@
+Sorteio realizado em: 10.11.2025,_16:11:51.
+
+Lista de habilitados possui 3 itens 
+1	82	23705524000183	Toca Filmes Comunicação Ltda.
+2	204	23883894000100	Caninópolis Produções Audiovisuais Ltda.
+3	229	31399764000125	Log Produções & Filmes Ltda.
+
+Semente gerada a partir do momento exato do sorteio e da lista de participantes 
+f15aa94d5836e46859700cca3dac121cde7b5e2b6e72020632b7e21a76c7ab1a9c0f469b6b0ec98563c319a6887d3b50a4bb7e5cdf6d35069901e0da5fac2495
+
+
+Lista sorteados possui 3 itens 
+1	82	23705524000183	Toca Filmes Comunicação Ltda.
+2	229	31399764000125	Log Produções & Filmes Ltda.
+3	204	23883894000100	Caninópolis Produções Audiovisuais Ltda.
+
