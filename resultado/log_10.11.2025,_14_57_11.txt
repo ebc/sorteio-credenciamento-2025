@@ -1,0 +1,18 @@
+Sorteio realizado em: 10.11.2025,_14:57:11.
+
+Lista de habilitados possui 4 itens 
+1	82	23705524000183	Toca Filmes Comunicação Ltda
+2	148	35485214000180	Dogana Boutique Digital & Serviços de Produção Cinematográficas Ltda
+3	149	28772086000190	Plongee 360 Produção e Arte Ltda
+4	220	97544735000118	Maré Alta Filmes Ltda
+
+Semente gerada a partir do momento exato do sorteio e da lista de participantes 
+9d0fe7b07e18e9626e3815d84473e1609346f95435dccf7ea784377e9a16c7664093b2a7e9f557f100714a877d1bbeabe394758dc214ceffeeecbf5e9ea93061
+
+
+Lista sorteados possui 4 itens 
+1	148	35485214000180	Dogana Boutique Digital & Serviços de Produção Cinematográficas Ltda
+2	220	97544735000118	Maré Alta Filmes Ltda
+3	149	28772086000190	Plongee 360 Produção e Arte Ltda
+4	82	23705524000183	Toca Filmes Comunicação Ltda
+
